@@ -1,0 +1,15 @@
+C:\Users\CAMILO\new_copy\polimorfismo\obj\Debug\net8.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMILO\new_copy\polimorfismo\obj\Debug\net8.0\polimorfismo.AssemblyInfoInputs.cache
+C:\Users\CAMILO\new_copy\polimorfismo\obj\Debug\net8.0\polimorfismo.AssemblyInfo.cs
+C:\Users\CAMILO\new_copy\polimorfismo\obj\Debug\net8.0\polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\CAMILO\new_copy\polimorfismo\obj\Debug\net8.0\polimorfismo.sourcelink.json
+C:\Users\CAMILO\new_copy\polimorfismo\bin\Debug\net8.0\polimorfismo.exe
+C:\Users\CAMILO\new_copy\polimorfismo\bin\Debug\net8.0\polimorfismo.deps.json
+C:\Users\CAMILO\new_copy\polimorfismo\bin\Debug\net8.0\polimorfismo.runtimeconfig.json
+C:\Users\CAMILO\new_copy\polimorfismo\bin\Debug\net8.0\polimorfismo.dll
+C:\Users\CAMILO\new_copy\polimorfismo\bin\Debug\net8.0\polimorfismo.pdb
+C:\Users\CAMILO\new_copy\polimorfismo\obj\Debug\net8.0\polimorfismo.dll
+C:\Users\CAMILO\new_copy\polimorfismo\obj\Debug\net8.0\refint\polimorfismo.dll
+C:\Users\CAMILO\new_copy\polimorfismo\obj\Debug\net8.0\polimorfismo.pdb
+C:\Users\CAMILO\new_copy\polimorfismo\obj\Debug\net8.0\polimorfismo.genruntimeconfig.cache
+C:\Users\CAMILO\new_copy\polimorfismo\obj\Debug\net8.0\ref\polimorfismo.dll
