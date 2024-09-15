@@ -1,0 +1,5 @@
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.AssemblyInfoInputs.cache
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.AssemblyInfo.cs
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.csproj.CoreCompileInputs.cache
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.sourcelink.json
