@@ -1,0 +1,15 @@
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.AssemblyInfoInputs.cache
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.AssemblyInfo.cs
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.csproj.CoreCompileInputs.cache
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.sourcelink.json
+C:\Users\CAMILO\new_copy\herencia_clases\bin\Debug\net8.0\herencia_clases.exe
+C:\Users\CAMILO\new_copy\herencia_clases\bin\Debug\net8.0\herencia_clases.deps.json
+C:\Users\CAMILO\new_copy\herencia_clases\bin\Debug\net8.0\herencia_clases.runtimeconfig.json
+C:\Users\CAMILO\new_copy\herencia_clases\bin\Debug\net8.0\herencia_clases.dll
+C:\Users\CAMILO\new_copy\herencia_clases\bin\Debug\net8.0\herencia_clases.pdb
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.dll
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\refint\herencia_clases.dll
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.pdb
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\herencia_clases.genruntimeconfig.cache
+C:\Users\CAMILO\new_copy\herencia_clases\obj\Debug\net8.0\ref\herencia_clases.dll

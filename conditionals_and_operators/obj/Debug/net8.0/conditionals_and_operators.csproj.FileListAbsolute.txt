@@ -1,0 +1,15 @@
+C:\Users\CAMILO\new_copy\conditionals_and_operators\bin\Debug\net8.0\conditionals_and_operators.exe
+C:\Users\CAMILO\new_copy\conditionals_and_operators\bin\Debug\net8.0\conditionals_and_operators.deps.json
+C:\Users\CAMILO\new_copy\conditionals_and_operators\bin\Debug\net8.0\conditionals_and_operators.runtimeconfig.json
+C:\Users\CAMILO\new_copy\conditionals_and_operators\bin\Debug\net8.0\conditionals_and_operators.dll
+C:\Users\CAMILO\new_copy\conditionals_and_operators\bin\Debug\net8.0\conditionals_and_operators.pdb
+C:\Users\CAMILO\new_copy\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMILO\new_copy\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.AssemblyInfoInputs.cache
+C:\Users\CAMILO\new_copy\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.AssemblyInfo.cs
+C:\Users\CAMILO\new_copy\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.csproj.CoreCompileInputs.cache
+C:\Users\CAMILO\new_copy\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.sourcelink.json
+C:\Users\CAMILO\new_copy\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.dll
+C:\Users\CAMILO\new_copy\conditionals_and_operators\obj\Debug\net8.0\refint\conditionals_and_operators.dll
+C:\Users\CAMILO\new_copy\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.pdb
+C:\Users\CAMILO\new_copy\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.genruntimeconfig.cache
+C:\Users\CAMILO\new_copy\conditionals_and_operators\obj\Debug\net8.0\ref\conditionals_and_operators.dll
